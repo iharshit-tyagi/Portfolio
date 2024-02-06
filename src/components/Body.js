@@ -3,7 +3,7 @@ import Home from "./Home";
 
 const Body = () => {
   return (
-    <div>
+    <div className="bg-[#020a13]  mx-28 h-screen">
       <Home />
     </div>
   );
